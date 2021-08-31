@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1599234615 source:c:\users\muhammad faiq\desktop\computer graphics\3d shape\main.cpp
+	<GL/freeglut.h>
+	<GL/glu.h>
+	<GL/gl.h>
+	<math.h>
+	<time.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1598988884 source:c:\users\muhammad faiq\desktop\computer graphics\bar chart\main.cpp
+	<GL/freeglut.h>
+	<GL/glu.h>
+	<GL/gl.h>
+	<windows.h>
+	<math.h>
+	<time.h>
+

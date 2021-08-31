@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1599379422 source:d:\graphics practice\3dbox\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/freeglut.h>
+	<windows.h>
+
+1599588096 source:c:\users\muhammad faiq\desktop\computer graphics\3dbox\3dbox\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/freeglut.h>
+	<windows.h>
+

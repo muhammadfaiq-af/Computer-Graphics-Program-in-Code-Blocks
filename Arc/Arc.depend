@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1599081676 source:c:\users\muhammad faiq\desktop\computer graphics\arc\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/freeglut.h>
+	<math.h>
+	<stdio.h>
+	<time.h>
+

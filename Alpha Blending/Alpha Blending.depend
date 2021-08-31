@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1599324782 source:c:\users\muhammad faiq\desktop\computer graphics\alpha blending\main.cpp
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<math.h>
+	<time.h>
+
