@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1599580605 source:c:\users\muhammad faiq\desktop\computer graphics\polyline\main.cpp
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<Gl/glu.h>
+

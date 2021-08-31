@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1595531175 source:c:\users\muhammad faiq\desktop\star\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/freeglut.h>
+
+1595531175 source:c:\users\muhammad faiq\desktop\computer graphics\star\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/freeglut.h>
+

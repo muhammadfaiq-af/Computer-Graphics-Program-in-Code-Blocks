@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1599585307 source:c:\users\muhammad faiq\desktop\computer graphics\name in urdu\main.cpp
+	<gl/gl.h>
+	<gl/freeglut.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+

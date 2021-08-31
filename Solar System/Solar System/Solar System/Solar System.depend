@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1595841869 source:c:\users\muhammad faiq\desktop\computer graphics\solar system\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/freeglut.h>
+	<windows.h>
+	<math.h>
+	<time.h>
+
