@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1595708782 source:c:\users\muhammad faiq\desktop\computer graphics\cube1\main.cpp
+	<GL/glu.h>
+	<GL/gl.h>
+	<GL/freeglut.h>
+

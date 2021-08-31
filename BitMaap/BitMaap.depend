@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1598996941 source:c:\users\muhammad faiq\desktop\computer graphics\bitmaap\main.cpp
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<windows.h>
+	<math.h>
+

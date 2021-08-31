@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1600251428 source:c:\users\muhammad faiq\desktop\computer graphics\game\main.cpp
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<stdarg.h>
+	<time.h>
+

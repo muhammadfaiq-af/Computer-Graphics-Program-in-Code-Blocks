@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1599081486 source:c:\users\muhammad faiq\desktop\computer graphics\circle\main.cpp
+	<GL/freeglut.h>
+	<GL/glu.h>
+	<GL/gl.h>
+	<time.h>
+	<math.h>
+
